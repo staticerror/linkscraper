@@ -4,7 +4,6 @@ actionpack -v 2.3.8
 activerecord -v 2.3.8
 activeresource -v 2.3.8
 activesupport -v 2.3.8
-bossman -v 0.4.1 --source gems.github.com
 bundler -v 0.9.26
 configuration -v 1.1.0
 fakeweb -v 1.2.8
