@@ -1,4 +1,3 @@
-rails -v 2.3.5
 jpignata-bossman -v 0.1.2 --source gems.github.com
 json_pure -v 1.4.3
 launchy -v 0.3.5
